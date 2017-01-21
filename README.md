@@ -1,2 +1,2 @@
 # bs4live.com
-bs4live.co
+bs4live.com
