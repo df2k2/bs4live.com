@@ -1,5 +1,5 @@
 
-# markdown: kramdown
+markdown: kramdown
 highlighter: rouge
 
 timezone: America/New_York
